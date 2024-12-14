@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
+# Date:
 
+14.12.24
 
 # Aim : 
 
@@ -49,6 +51,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 Name: Avantika Krishnadas Kundooly
+
 Register Number: 240010601
 
 ```python
